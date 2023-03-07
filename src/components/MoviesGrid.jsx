@@ -7,11 +7,12 @@ export function MoviesGrid() {
   // let movies = [];
   const [movies, setMovies] = useState([]);
 
-  useEffect(() => [
+  useEffect(() => {
     get("/discover/movie").then((data) => {
-        setMovies(data.results);
-      }),
-  ]);
+      setMovies(data.results);
+    })
+  }, [])
+
   return (
     <ul className={styles.moviesGrid}>
       {movies.map((movie) => (
