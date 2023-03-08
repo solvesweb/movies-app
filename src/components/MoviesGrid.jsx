@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 import { get } from "../httpClient";
 
 export function MoviesGrid() {
-  // let movies = [];
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {

@@ -8,9 +8,8 @@
   opacity: 0.8;
 }
 
-.movieImg {
-  border-radius: 10px;
-  background-color: aquamarine;
+.movieImg {  
+  background-color: grey;
 }
 
 @media (max-width: 560px) {
