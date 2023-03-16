@@ -27,7 +27,7 @@ Solo necesitas empezar a escribir en el imput, y automáticamente te irá mostra
 
 Este proyecto ha sido iniciado con [Create React App](https://github.com/facebook/create-react-app).
 
-# Scripts Disponibles
+## ⌨️ Scripts Disponibles
 
 En el directorio del proyecto, puedes ejecutarlo con:
 
