@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# 📽️ The Movies App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Os presento la prueba técnica para el Bootcamp de React de Geekshubs Academy.
 
-## Available Scripts
+Consiste en la creación de una APP capaz de interactuar con la API proporcionada por The Movie Database (TMDB), para la búsqueda de información de todas las películas disponibles por esta API.
 
-In the project directory, you can run:
+Solo necesitas empezar a escribir en el imput, y automáticamente te irá mostrando las películas que coincidan con la búsqueda.
+
+## 🎬 Características Principales
+
+- Posibilidad de listar las 20 películas top del momento.
+- Búsqueda de películas por título.
+- Búsqueda de películas mediante título original.
+- Búsqueda de películas mediante overview.
+
+## 🧑🏻‍💻 Tecnologías
+
+- HTML5 y CSS3
+
+- JavaScript
+
+- **React**
+
+- React Router
+
+## Empezando con  Create React App
+
+Este proyecto ha sido iniciado con [Create React App](https://github.com/facebook/create-react-app).
+
+## Scripts Disponibles
+
+En el directorio del proyecto, puedes ejecutarlo con:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para ejecutar la aplicación en el modo de desarrollo..\
+Abre [http://localhost:3000](http://localhost:3000) para verla desplegada en tu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La página se recargará automáticamente cuando realices cambios.\
+También puedes observar errores en la consola.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Lanza el test runner de modo interactivo.\
+Consulte la sección sobre [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para más información.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Construye la aplicación para producción en la carpeta `build`.\
+Empaqueta correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+La compilación se minimiza y los nombres de archivo incluyen los hashes.\
+¡Tu aplicación está lista para ser implementada!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Mira la sección about [deployment](https://facebook.github.io/create-react-app/docs/deployment) para más información.
 
-### `npm run eject`
+## 💻 Demo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[Movies App](https://movie-solves.netlify.app/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚨 Licencia 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Esta aplicación está protegida por los términos de la licencia MIT. Para obtener más información, visite el siguiente enlace: [MIT](https://opensource.org/licenses/MIT)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://solvesweb.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solves8/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/solvesweb)
